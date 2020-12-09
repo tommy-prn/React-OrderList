@@ -6,12 +6,12 @@ import { v4 } from "uuid";
 
 const item = {
   id: v4(),
-  name: "Clean the house",
+  name: "Masak mie instan",
 };
 
 const item2 = {
   id: v4(),
-  name: "Wash the car",
+  name: "Ngopi santai",
 };
 
 function App() {
